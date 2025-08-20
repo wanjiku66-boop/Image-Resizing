@@ -18,11 +18,15 @@ Before starting, you’ll need the following:
    2. [Go here](https://www.iloveimg.com/resize-image). 
    3. You’ll see a large button that says **“Select images.**”
 
+![Step 1](Step%201%20Image.png)
+
 ## Step 2: Upload Your Image
 
    1. Click **“Select images.”**
    2. Browse your device and choose the image you want to resize.
    3. Once uploaded, it will appear as a preview on the page.
+
+![Step 2](Step%202%20Image.png)
 
 ## Step 3: Choose Your Resize Method
 
@@ -31,7 +35,9 @@ ILoveIMG gives you two ways to resize:
     * **By percentage**: Scale the image down (e.g., 50% smaller). Use percentage when you just want to make the image smaller or larger without worrying about specific dimensions.
 For most uploads, resizing by **pixels** works best.
 **Tip**: Check the **“Maintain aspect ratio”** box so your image doesn’t get stretched.
-  
+
+![Step 3](Step%203%20Image.png)
+
 ## Step 4: Apply the Resize
 
     1. Enter your desired width (the height will adjust automatically if the aspect ratio is locked).
@@ -50,3 +56,4 @@ If you’re not sure which to choose, **JPEG** is usually the safe bet.
 # Conclusion
 Learning how to resize an image might seem like a small skill, but it’s one of those little things that can save you a lot of frustration. The next time a website tells you your file is too big, you’ll know exactly what to do, and you’ll fix it in minutes, without stress and without spending a dime. It’s a simple win, but one that can make you feel just a little more in control of your digital world.
 **Ready to try it?** Pick one photo from your computer or phone, maybe one that’s been sitting there because it was “too big” to upload, and give ILoveIMG a spin. In less than two minutes, you’ll have a perfectly resized image ready to share, post, or send.
+
